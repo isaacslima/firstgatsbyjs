@@ -7,7 +7,7 @@ export default function Contact() {
       <Link to="/">Home</Link>
       <Header headerText="Contact" />
       <p>my Contacts</p>
-      <p><a target="_blank" href="https://github.com/isaacslima">GitHub</a></p>
+      <p><a target="_blank" rel="noreferrer" href="https://github.com/isaacslima">GitHub</a></p>
     </div>
   )
 }
