@@ -1,5 +1,7 @@
 .container {
-    margin: 3rem auto;
-    max-width: 600px;
-    background-color: darkturquoise;
+    width: 100%;
+    height: 100%;
+    color: lightsteelblue;
+    font-family: Impact, Charcoal, sans-serif;
+    background-color: darkslategray;
   }

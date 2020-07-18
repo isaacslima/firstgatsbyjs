@@ -1,0 +1,10 @@
+.header {
+    width: 100%;
+    background-color: darkviolet;
+    color: white;
+    padding: 0.4em;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    text-transform: uppercase;
+
+}
